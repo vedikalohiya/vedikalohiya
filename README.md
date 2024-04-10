@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **vedika.lohiya22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s0i-kyHM7l4CUZOL-GL1F75F_Lj10-E9/view?usp=sharing](https://drive.google.com/file/d/1s0i-kyHM7l4CUZOL-GL1F75F_Lj10-E9/view?usp=sharing)
-
 - ⚡ Fun fact **I am funny and a big chatterbox**
 
 <h3 align="left">Connect with me:</h3>
