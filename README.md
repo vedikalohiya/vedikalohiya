@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/vedika2203](linkedin.com/in/vedika2203)
+- 🌱 I'm currently learning Web Development and DSA
 
 - 📫 How to reach me **vedika.lohiya22@gmail.com**
 
